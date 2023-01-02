@@ -14,16 +14,15 @@ Arduino Library Dot Matrix P10 (HUB12) single color menggunakan ESP8266-12E (Sep
 
 ---
 ## Modification by
-**Catatan & Program ditulis oleh:**
-- Modification by   : Irfan Indra Kurniawan, ST
+- Editor            : Irfan Indra Kurniawan, ST
 - Organisasi        : Fans Electronics
 - Website           : www.fanselectronics.com
 - Email             : info@fanselectronics.com
-- GitHub            : github.com/FansElectronics
+> **Catatan dari pembuat:** Silahkan kembangkan dan gunakan untuk ibadah, pendidikan, pribadi, atau komersil, jika ada pengembangan lebih lanjut disarankan untuk membagikan agar ilmunya bermanfaat :D
 
 ---
 ## Donasi
-Jika Ingin berdonasi silahkan, kontak:
+Jika Ingin berdonasi untuk project-project di fanselectronics.com, melalui:
 - donate@fanselectronics.com
 - www.facebook.com/FansElectronicsCom
 - www.instagram.com/fanselectronics
