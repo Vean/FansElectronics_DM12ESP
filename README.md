@@ -10,7 +10,7 @@ Arduino Library Dot Matrix P10 (HUB12) single color menggunakan ESP8266-12E (Sep
 ---
 ## Original Library
 - https://github.com/freetronics/DMD - Library Arduino P10 
-- https://github.com/busel7/DMDESP - Library ESP8266 P10
+- https://github.com/rweather/arduino-projects/tree/master/libraries/DMD - Library ESP8266 P10
 
 ---
 ## Modification by
