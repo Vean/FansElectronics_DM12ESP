@@ -7,7 +7,7 @@
 #include <fonts/System6x7.h>
 #include <fonts/SystemFont5x7.h>
 
-#define DISPLAYS_WIDE 2  // Kolom Panel 64 pixel
+#define DISPLAYS_WIDE 6  // Kolom Panel 64 pixel
 #define DISPLAYS_HIGH 1  // Baris Panel 16 pixel
 
 FansElectronics_DM12ESP dmd(DISPLAYS_WIDE, DISPLAYS_HIGH);
@@ -23,9 +23,9 @@ void setup() {
 // LOOP
 void loop() {
   dmd.setFont(System6x7);
-  dmd.drawText(7, 0, "DM08ESP");
+  dmd.drawText(7, 0, "DM12ESP");
   dmd.setFont(SystemFont5x7);
-  bool next = runningText(8, 50, "DMD12ESP P10 ESP8266 by FansElectronics ");
+  bool next = runningText(8, 30, "DMD12ESP P10 ESP8266 by FansElectronics ");
   dmd.update();
 }
 //----------------------------------------------------------------------
